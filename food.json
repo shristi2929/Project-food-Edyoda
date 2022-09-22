@@ -1,0 +1,9 @@
+{
+    "1": {
+        "Food_Name": "banana",
+        "Quantity": "12",
+        "Price": 6.0,
+        "Discount": 1.0,
+        "Stock": 22
+    }
+}
